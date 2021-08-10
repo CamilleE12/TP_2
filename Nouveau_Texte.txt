@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+Je fais des lignes de commande sur git
+=======
+Git
+>>>>>>> Feature
